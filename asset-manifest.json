@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moive2/static/css/main.e6c13ad2.css",
+    "main.js": "/moive2/static/js/main.bdcc135c.js",
+    "static/js/453.419a5d54.chunk.js": "/moive2/static/js/453.419a5d54.chunk.js",
+    "index.html": "/moive2/index.html",
+    "main.e6c13ad2.css.map": "/moive2/static/css/main.e6c13ad2.css.map",
+    "main.bdcc135c.js.map": "/moive2/static/js/main.bdcc135c.js.map",
+    "453.419a5d54.chunk.js.map": "/moive2/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bdcc135c.js"
+  ]
+}
